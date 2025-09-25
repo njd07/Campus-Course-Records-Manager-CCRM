@@ -1,3 +1,4 @@
-code,title,credits,department,semester,instructor
-CS101,Intro to CS,4,CS,FALL,Dr. Rao
-MA101,Calculus,3,Math,FALL, Dr. Bhim
+code,title,credits,semester,instructor_name
+CS101,Intro to Programming,4,FALL,Dr. Gupta
+PHY202,Quantum Physics,3,SPRING,Dr. Sharma
+BIO101,Basics of Biology,3,FALL,Dr. Verma
