@@ -209,4 +209,4 @@ Campus-Course-Records-Manager-CCRM/
 ![menu-test](screenshots/menu_test.png)
 
 
-<h3 align="center">✨ THANK YOU FOR CHECKING OUT THE PROJECT! ✨</h3> <p align="center">Feel free to open issues or contribute via pull requests.</p> ```  
+<h3 align="center">✨ THANK YOU FOR CHECKING OUT THE PROJECT! ✨</h3> <p align="center">Feel free to open issues or contribute via pull requests.</p> 
